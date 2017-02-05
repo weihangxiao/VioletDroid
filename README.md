@@ -10,7 +10,7 @@ This project is based on the buildToolsVersion "24.0.2" and gradle version "2.2.
 
 ## Demonstration
 Swipe tool bar to view all available digrams there. Double tap to add one to the canvas below. Drag digram on cavans can make it moving with your finger. Single tap to show its indicator. Click the resizing button and scale the diagram as you want (rotating isn't done yet). Long press to remove the diagram on canvas.  
-<img src="https://github.com/dilyar85/VioletDroid/blob/master/screenshots/gif-11:16.gif" alt="current_screenshots_image" width="300">
+<img src="https://github.com/weihangxiao/VioletDroid/blob/master/screenshots/gif-11:16.gif" alt="current_screenshots_image" width="300">
 
 ## Add Your Contribution
 Before start your own implement on this project, please make sure you are in a new branch other than "master". Type these in terminal:
